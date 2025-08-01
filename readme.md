@@ -4,4 +4,4 @@
 
 ship an app or game with a **shared and realtime infinite canvas** for...
 
-[![infinity](https://github.com/user-attachments/assets/86716e02-608c-4427-9cf4-9419f527794d)](https://toinfinity.vercel.app)
+[![infinity](https://github.com/user-attachments/assets/98b96b34-8ba9-4131-b553-7eb96f423645)](https://toinfinity.vercel.app)
