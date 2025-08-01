@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@font-face {
+	font-display: swap;
+	font-family: "neon";
+	src: url("/fonts/neon.woff2") format("woff2");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "argon";
+	src: url("/fonts/argon.woff2") format("woff2");
+}
+
+@font-face {
+	font-display: swap;
+	font-family: "xenon";
+	src: url("/fonts/xenon.woff2") format("woff2");
+}
+
+@theme {
+	--font-mono: "neon", system-ui;
+	--font-sans: "argon", system-ui;
+	--font-serif: "xenon", system-ui;
+}
