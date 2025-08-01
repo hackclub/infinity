@@ -62,6 +62,9 @@ export const App = () => (
 				(to navigate your canvas!)
 			</li>
 		</ul>
+		<p>
+			ends <strong>aug 22</strong>! the sooner you start, the better :)
+		</p>
 		<div className="flex gap-6 items-center">
 			<a
 				className="bg-black dark:bg-white hover:cursor-pointer font-mono focus:font-bold hover:font-bold outline-0 select-none text-white dark:text-black"
