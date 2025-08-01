@@ -74,7 +74,7 @@ export const App = () => (
 			</a>
 			<a
 				className="hover:cursor-pointer font-mono outline-0 select-none focus:underline hover:underline"
-				href="https://gumwall.vercel.app"
+				href="https://github.com/aarvinroshin/gumwall"
 				target="_blank"
 			>
 				&gt; example
