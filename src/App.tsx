@@ -14,52 +14,72 @@ export const App = () => (
 			</sup>
 		</h1>
 		<p>
-			ship an app or game with a <strong>shared and realtime infinite canvas</strong> for...
+			ship an app or game with an <strong>infinite canvas</strong> for...
 		</p>
 		<ul className="flex flex-col gap-2">
 			<li>
-				* five hours: an{" "}
+				* nine hours: a{" "}
 				<a
 					className="hover:cursor-pointer font-mono outline-0 text-blue-600 dark:text-blue-400 focus:underline hover:underline"
-					href="https://amazon.com/dp/B078KZNX5L"
+					href="https://amazon.com/dp/B0CQ88QYFK"
 					rel="noopener noreferrer"
 					target="_blank"
 				>
-					aluminum alloy <strong>infinity cube w/ case</strong>
+					special-edition magnetic uv-coated <strong>gan mirror cube</strong>
 				</a>{" "}
 				<em>or</em> a{" "}
 				<a
 					className="hover:cursor-pointer font-mono outline-0 text-blue-600 dark:text-blue-400 focus:underline hover:underline"
-					href="https://amazon.com/dp/B0CT3TJYX8"
+					href="https://amazon.com/dp/B086PNKX2P"
 					rel="noopener noreferrer"
 					target="_blank"
 				>
-					magnetic uv-coated <strong>mirror speedcube</strong>
+					magnetic uv-coated <strong>gan 3x3 speedcube</strong>
 				</a>
 			</li>
 			<li>
-				* ten hours: a{" "}
+				* eighteen hours: an{" "}
 				<a
 					className="hover:cursor-pointer font-mono outline-0 text-blue-600 dark:text-blue-400 focus:underline hover:underline"
-					href="https://amazon.com/dp/B0DHLDGBQ5"
+					href="https://ploopy.co/shop/mouse-full-kit/"
 					rel="noopener noreferrer"
 					target="_blank"
 				>
-					slim large-size <strong>touchpad</strong>
+					open-source 3d-printed DIY <strong>mouse</strong>
 				</a>{" "}
-				(to navigate your canvas!)
+				<em>or</em> a{" "}
+				<a
+					className="hover:cursor-pointer font-mono outline-0 text-blue-600 dark:text-blue-400 focus:underline hover:underline"
+					href="https://ploopy.co/shop/trackpad-full-kit/"
+					rel="noopener noreferrer"
+					target="_blank"
+				>
+					open-source 3d-printed DIY <strong>trackpad</strong>
+				</a>
 			</li>
 			<li>
-				* twenty hours: an{" "}
+				*{" "}
+				<strong>
+					<em>twenty-seven</em>
+				</strong>{" "}
+				hours: an{" "}
 				<a
 					className="hover:cursor-pointer font-mono outline-0 text-blue-600 dark:text-blue-400 focus:underline hover:underline"
-					href="https://ploopy.co/shop/trackpad-full-kit"
+					href="https://amazon.com/dp/B09HM94VDS"
 					rel="noopener noreferrer"
 					target="_blank"
 				>
-					open source, 3d-printed, DIY <strong>touchpad kit</strong>
+					ergonomic touch-scroll <strong>logitech mouse</strong>
 				</a>{" "}
-				(to navigate your canvas!)
+				<em>or</em> a{" "}
+				<a
+					className="hover:cursor-pointer font-mono outline-0 text-blue-600 dark:text-blue-400 focus:underline hover:underline"
+					href="https://amazon.com/dp/B0DL6ZN6GK"
+					rel="noopener noreferrer"
+					target="_blank"
+				>
+					light glass <strong>apple trackpad</strong>
+				</a>
 			</li>
 		</ul>
 		<p>
@@ -72,12 +92,8 @@ export const App = () => (
 			>
 				&gt; submit
 			</a>
-			<a
-				className="hover:cursor-pointer font-mono outline-0 select-none focus:underline hover:underline"
-				href="https://github.com/aarvinroshin/gumwall"
-				target="_blank"
-			>
-				&gt; example
+			<a className="hover:cursor-not-allowed font-mono outline-0 select-none text-neutral-600 dark:text-neutral-400">
+				&gt; example (soon)
 			</a>
 			<a
 				className="hover:cursor-pointer font-mono outline-0 select-none focus:underline hover:underline"
