@@ -83,7 +83,7 @@ export const App = () => (
 			</li>
 		</ul>
 		<p>
-			ends <strong>aug 22</strong>! the sooner you start, the better :)
+			ends <strong>aug 25</strong>! the sooner you start, the better :)
 		</p>
 		<div className="flex gap-6 items-center">
 			<a
@@ -92,8 +92,12 @@ export const App = () => (
 			>
 				&gt; submit
 			</a>
-			<a className="hover:cursor-not-allowed font-mono outline-0 select-none text-neutral-600 dark:text-neutral-400">
-				&gt; example (soon)
+			<a
+				className="hover:cursor-pointer font-mono outline-0 select-none focus:underline hover:underline"
+				href="https://fridgepoem.com"
+				target="_blank"
+			>
+				&gt; example
 			</a>
 			<a
 				className="hover:cursor-pointer font-mono outline-0 select-none focus:underline hover:underline"
