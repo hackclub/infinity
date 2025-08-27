@@ -83,17 +83,19 @@ export const App = () => (
 			</li>
 		</ul>
 		<p>
-			ends <strong>aug 25</strong>! the sooner you start, the better :)
+			<strong>infinity has ended!!! submissions are no longer being accepted</strong>
 		</p>
 		<div className="flex gap-6 items-center">
 			<a
 				className="bg-black dark:bg-white hover:cursor-pointer font-mono focus:font-bold hover:font-bold outline-0 select-none text-white dark:text-black"
+				disabled
 				href="https://submit.hackclub.com/infinity"
 			>
 				&gt; submit
 			</a>
 			<a
 				className="hover:cursor-pointer font-mono outline-0 select-none focus:underline hover:underline"
+				disabled
 				href="https://fridgepoem.com"
 				target="_blank"
 			>
@@ -101,6 +103,7 @@ export const App = () => (
 			</a>
 			<a
 				className="hover:cursor-pointer font-mono outline-0 select-none focus:underline hover:underline"
+				disabled
 				href="https://hackclub.slack.com/archives/C098ARHLXFW"
 				target="_blank"
 			>
